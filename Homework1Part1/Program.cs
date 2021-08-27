@@ -1,5 +1,5 @@
 ﻿/// Chapter No. 1		Exercise No. 1
-/// File Name: MyFirstProgram.java
+/// File Name: MyFirstProgram.cs
 /// @author: Zitlali Martinez
 /// Date:  August 27, 2015
 ///
