@@ -1,4 +1,4 @@
-﻿/// Chapter No. 1		Lab No. 2
+﻿/// Chapter No. 2		Lab No. 2
 /// File Name: MyFirstProgramModified.cs
 /// @author: Zitlali Martinez
 /// Date:  August 30, 2021
