@@ -1,7 +1,7 @@
 ﻿/// Chapter No. 2		Lab No. 2
 /// File Name: CandyCalculator.cs
 /// @author: Zitlali Martinez
-/// Date:  August 30, 2020
+/// Date:  August 30, 2021
 ///
 /// Problem Statement: Calculate the number of candy bars and gumballs a certain
 /// number of coupons can get as well as the leftover coupons.

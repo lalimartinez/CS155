@@ -1,4 +1,22 @@
-﻿using System;
+﻿/// Chapter No. 1		Lab No. 2
+/// File Name: MyFirstProgramModified.cs
+/// @author: Zitlali Martinez
+/// Date:  August 30, 2021
+///
+/// Problem Statement: Ask the user to enter three numbers and calculate the sum and product of
+/// these three numbers. Calculate the division of the product and sum and display the results
+/// to the screen.
+/// 
+/// 
+/// Overall Plan:
+/// 1) Print an initial welcoming message to the screen
+/// 2) Prompt the user for three integers
+/// 3) Calculate the sum of the integers
+/// 4) Calculate the product of the integers
+/// 5) Calculate the division of the product and sum
+/// 4) Print the sum, product, and division to the screen
+/// 
+using System;
 
 namespace Week2Lab1
 {
@@ -11,7 +29,7 @@ namespace Week2Lab1
             Console.WriteLine("I will add three numbers for you, multiply them, and divide the product and sum.");
             Console.WriteLine("Enter one number and press enter, enter second number and press enter, enter third number and press enter:");
 
-            // declare two integer variables
+            // declare three integer variables
             int n1, n2, n3, sum, product; 
             double division;
 
@@ -23,7 +41,11 @@ namespace Week2Lab1
 
             // calculate the sum of these two numbers
             sum = n1 + n2 + n3;
+
+            //calculate the product
             product = n1 * n2 * n3;
+
+            //calculate the division
             division = product / (double)sum;
 
             // print a message along with the sum of the two numbers
