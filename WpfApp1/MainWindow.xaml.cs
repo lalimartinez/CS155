@@ -1,5 +1,5 @@
 ﻿/// Chapter No. 3		Exercise No. 1
-/// File Name: MortgagePayments.cs
+/// File Name: MortgagePaymentsGUI.cs
 /// @author: Zitlali Martinez
 /// Date:  September 19, 2021
 ///
