@@ -19,9 +19,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4Lab1", "Week4Lab1\Week
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkWeek4Part1", "WpfApp1\HomeworkWeek4Part1.csproj", "{B1E26E41-D043-44CD-B947-FDBAC2B842CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkWeek4Part2", "HomeworkWeek4Part2\HomeworkWeek4Part2.csproj", "{6621E1A5-612F-4D5C-B50E-7C1E22996210}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeworkWeek4Part2", "HomeworkWeek4Part2\HomeworkWeek4Part2.csproj", "{6621E1A5-612F-4D5C-B50E-7C1E22996210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4Lab2", "Week4Lab2\Week4Lab2.csproj", "{FD2E04D4-EA90-485D-9DB7-591B326A1359}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week4Lab2", "Week4Lab2\Week4Lab2.csproj", "{FD2E04D4-EA90-485D-9DB7-591B326A1359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkWeek5Part1", "HomeworkWeek5Part1\HomeworkWeek5Part1.csproj", "{13595D93-210F-48F2-A65F-CF5798755EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkWeek5Part2", "HomeworkWeek5Part2\HomeworkWeek5Part2.csproj", "{FC225675-A618-435D-80F1-FA1177DA1706}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{FD2E04D4-EA90-485D-9DB7-591B326A1359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD2E04D4-EA90-485D-9DB7-591B326A1359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD2E04D4-EA90-485D-9DB7-591B326A1359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13595D93-210F-48F2-A65F-CF5798755EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13595D93-210F-48F2-A65F-CF5798755EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13595D93-210F-48F2-A65F-CF5798755EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13595D93-210F-48F2-A65F-CF5798755EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC225675-A618-435D-80F1-FA1177DA1706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC225675-A618-435D-80F1-FA1177DA1706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC225675-A618-435D-80F1-FA1177DA1706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC225675-A618-435D-80F1-FA1177DA1706}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
