@@ -1,0 +1,23 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Week7Lab"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="Week7Lab.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="leftTextBox" HorizontalAlignment="Left" Height="23" Margin="196,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="rightTextBox" HorizontalAlignment="Left" Height="23" Margin="498,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="resultTextBox" HorizontalAlignment="Left" Height="23" Margin="358,309,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <ListBox Name="listBox" HorizontalAlignment="Left" Height="23" Margin="358,140,0,0" VerticalAlignment="Top" Width="100">
+            <System:String>+</System:String>
+            <System:String>-</System:String>
+            <System:String>*</System:String>
+            <System:String>/</System:String>
+            <System:String>%</System:String>
+        </ListBox>
+        <Button Content="Calculate" HorizontalAlignment="Left" Margin="382,208,0,0" VerticalAlignment="Top" Width="75" Click="calculationButton_Click"/>
+    </Grid>
+</Window>
