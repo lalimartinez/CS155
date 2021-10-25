@@ -39,9 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeworkWeek7Part1", "Homew
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7Lab", "Week7Lab\Week7Lab.csproj", "{919B2104-0794-4724-BDEE-0EF7682D3357}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkWeek9Part1", "HomeworkWeek9Part1\HomeworkWeek9Part1.csproj", "{D79C93E2-C66D-4930-BC52-0145AC076C4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeworkWeek9Part1", "HomeworkWeek9Part1\HomeworkWeek9Part1.csproj", "{D79C93E2-C66D-4930-BC52-0145AC076C4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkWeek9Part2", "HomeworkWeek9Part2\HomeworkWeek9Part2.csproj", "{CEB6E737-FA7A-427A-82B2-9C562EF91816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeworkWeek9Part2", "HomeworkWeek9Part2\HomeworkWeek9Part2.csproj", "{CEB6E737-FA7A-427A-82B2-9C562EF91816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week9Lab", "Week9Lab\Week9Lab.csproj", "{41E5CC34-6C69-4A8D-A4F0-4C3B9408D731}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{CEB6E737-FA7A-427A-82B2-9C562EF91816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEB6E737-FA7A-427A-82B2-9C562EF91816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEB6E737-FA7A-427A-82B2-9C562EF91816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E5CC34-6C69-4A8D-A4F0-4C3B9408D731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E5CC34-6C69-4A8D-A4F0-4C3B9408D731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E5CC34-6C69-4A8D-A4F0-4C3B9408D731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E5CC34-6C69-4A8D-A4F0-4C3B9408D731}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
