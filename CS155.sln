@@ -53,9 +53,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeworkWeek11", "HomeworkW
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week11Lab", "Week11Lab\Week11Lab.csproj", "{4388D175-518F-4A5F-85C9-4697CD761E88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkWeek12", "HomeworkWeek12\HomeworkWeek12.csproj", "{6E4EA4A8-BACB-40E0-B8A1-E3F8C5D82480}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeworkWeek12", "HomeworkWeek12\HomeworkWeek12.csproj", "{6E4EA4A8-BACB-40E0-B8A1-E3F8C5D82480}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week12Lab", "Week12Lab\Week12Lab.csproj", "{C40C8E22-09C6-4F8A-87B7-C4AC16C3D02E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week12Lab", "Week12Lab\Week12Lab.csproj", "{C40C8E22-09C6-4F8A-87B7-C4AC16C3D02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkWeek13", "HomeworkWeek13\HomeworkWeek13.csproj", "{0DEF7E79-B276-4252-AA9B-917060F10A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week13Lab", "Week13Lab\Week13Lab.csproj", "{7D9C14CC-0B73-40C1-88F2-83F9828C46C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +175,14 @@ Global
 		{C40C8E22-09C6-4F8A-87B7-C4AC16C3D02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C40C8E22-09C6-4F8A-87B7-C4AC16C3D02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C40C8E22-09C6-4F8A-87B7-C4AC16C3D02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DEF7E79-B276-4252-AA9B-917060F10A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEF7E79-B276-4252-AA9B-917060F10A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEF7E79-B276-4252-AA9B-917060F10A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEF7E79-B276-4252-AA9B-917060F10A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9C14CC-0B73-40C1-88F2-83F9828C46C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9C14CC-0B73-40C1-88F2-83F9828C46C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9C14CC-0B73-40C1-88F2-83F9828C46C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9C14CC-0B73-40C1-88F2-83F9828C46C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
